@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34445c</color>
+    <color name="colorPrimaryDark">#1c2c44</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black_overlay">#66000000</color>
+
+    <!--    minha palheta de cores Prof Rubens-->
+    <color name="corTelaSplash">#ffffff</color>
+    <color name="corTelaLogin">#ffffff</color>
+
+
+
+
+</resources>
